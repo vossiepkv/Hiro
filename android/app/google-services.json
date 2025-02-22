@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199211633767",
+    "project_id": "hiro-d60ce",
+    "storage_bucket": "hiro-d60ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199211633767:android:1db8786f1fe5ab4c5698c2",
+        "android_client_info": {
+          "package_name": "com.company.hiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199211633767-sl9fnoo1ltuuonb7f14u6odbffkk5i7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV64VE10uLMB8aNmCtX9f2xtgHqHRA3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199211633767-sl9fnoo1ltuuonb7f14u6odbffkk5i7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
